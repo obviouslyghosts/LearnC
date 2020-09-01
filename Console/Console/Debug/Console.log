@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\ObviouslyGhosts\CODE\LearnC\Console\Console\Source.cpp(9,9): warning C4101: 'i': unreferenced local variable
+  Console.vcxproj -> F:\ObviouslyGhosts\CODE\LearnC\Console\Debug\Console.exe
